@@ -27,6 +27,11 @@ body {
   color: #373a3c;
 }
 
+/*modificación de logo */
+.size {
+  width: 100px;
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
